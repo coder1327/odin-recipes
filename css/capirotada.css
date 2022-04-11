@@ -1,0 +1,34 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Lucida Sans', cursive;
+    font-weight: bold;
+    text-decoration: underline;
+} 
+#bold{
+    font-weight: bold;
+}
+img{
+    width: 400px;
+    height: 300px;
+} 
+.cursive{
+    font-family: 'Lucida Sans', cursive;
+}
+.outline{
+    outline-style: ridge;
+    outline-color: brown;
+}
+.margin{
+    margin-left: -2.2%;
+}
+ol{
+    line-height: 1.5;
+    list-style-type: decimal;
+    word-wrap: break-word;
+}
+ol li{
+    margin-bottom: 15px;
+}
